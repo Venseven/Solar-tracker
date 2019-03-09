@@ -30,17 +30,23 @@
 <ul>
         <li>Switch the command prompt to "Solar_tracker/No_Sun_video/" and run the following command</li>
 </ul>
+
 ```
         python run preprocessing.py
 ```
+
 #### * This command gets the informations as follows *
- ```
+
+```
         Video of the Sun(Y/N):-
+```
+
 ```
         Enter the video name :-
 ```
 
 \*please enter with video format*\
+
 ```
         Enter the path of the folder you want to store :- <Sun_datasets/No_Sun_datasets path>
 ```
