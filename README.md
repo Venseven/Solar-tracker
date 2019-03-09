@@ -18,7 +18,7 @@
         <li>Open No_Sun_video in solar-tracker director and add the cloudy/rainy cloud timelapse or videos</li>
 </ul>
 
-## Execution
+### Execution
 <ul>
         <li>Open a command prompt "Solar_tracker/Sun_video/" and run the following command</li>
 </ul>
