@@ -3,5 +3,5 @@
         <li>Extract the solar-tracker.rar file</li>
         <li>Inside the cloned solar-tracker directory,Open command window</li>
         <li>Install the dependencies with command line</li>
-                <li>pip install -r requirements.txt</li>
+                '''pip install -r requirements.txt'''
 
