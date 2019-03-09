@@ -20,7 +20,7 @@
 
 #### Execution
 <ul>
-        <li>Open a command prompt "Solar_tracker/Sun_video/" and run the following command</li>
+        <li>Open a command prompt inside "Solar_tracker/Sun_video/" and run the following command</li>
 </ul>
 
 ```
