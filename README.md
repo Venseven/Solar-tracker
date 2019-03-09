@@ -11,11 +11,13 @@
 ```
         pip install -r requirements.txt
 ```
-## Adding Videos
+### Adding Videos
+
 <ul>
         <li>Open Sun_video in solar-tracker director and add the sunny sky timelapse or videos</li>
         <li>Open No_Sun_video in solar-tracker director and add the cloudy/rainy cloud timelapse or videos</li>
 </ul>
+
 ## Execution
 <ul>
         <li>Open a command prompt "Solar_tracker/Sun_video/" and run the following command</li>
