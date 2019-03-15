@@ -1,5 +1,4 @@
 opencv-python
-sys
 os
 sqlite3
 time
