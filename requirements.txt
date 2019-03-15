@@ -1,5 +1,5 @@
 opencv-python
 tqdm
-sqlite3
+mysql
 time
 shutil
