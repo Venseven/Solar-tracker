@@ -1,5 +1,5 @@
 opencv-python
-os
+tqdm
 sqlite3
 time
 shutil
