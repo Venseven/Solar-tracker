@@ -2,4 +2,3 @@ opencv-python
 tqdm
 mysql
 datetime
-shutil
