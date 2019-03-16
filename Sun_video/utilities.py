@@ -25,5 +25,5 @@ def greetings():
 def welcome(count,path1):
     columns = shutil.get_terminal_size().columns
     print("\n\n\n")
-    print("\nYour images has been stored in *Robust_idno_{} file*\n\tand\n.. in path:{}\n".format(count,path1))
+    print("\nYour images has been stored in 'Robust_idno_{}' file and.. in path:{}\n".format(count,path1))
     print("Thank you for your Contribution..!".center(columns))
